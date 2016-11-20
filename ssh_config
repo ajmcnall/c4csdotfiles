@@ -1,0 +1,13 @@
+# Github Login
+Host github
+	HostName github.com
+	User ajmcnall
+	IdentityFile ~/.ssh/ajmcnall_rsa
+
+#Caen
+Host caen
+	HostName login.engin.umich.edu
+	User ajmcnall
+	Compression yes
+
+
